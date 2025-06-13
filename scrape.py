@@ -317,7 +317,7 @@ class NSEScraper:
                     pass
 
 
-class NameChangeScraper:
+class NewTickerScraper:
     """Main class to orchestrate the scraping process"""
 
     def __init__(self):
@@ -371,5 +371,5 @@ class NameChangeScraper:
 
 
 if __name__ == "__main__":
-    scraper = NameChangeScraper()
+    scraper = NewTickerScraper()
     scraper.run()
