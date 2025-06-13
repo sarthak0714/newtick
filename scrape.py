@@ -426,7 +426,7 @@ def scrape(url: str):
                     nse_symbol = get_nse_symbol(nse_driver, new_name)
 
                     # Add NSE symbol to entry
-                    entry["nse_symbol"] = nse_symbol
+                    entry["ticker"] = nse_symbol
 
                     # Add delay between requests
                     random_sleep(2, 4)
