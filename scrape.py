@@ -4,37 +4,104 @@ from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.chrome.service import Service
 from selenium.webdriver.chrome.options import Options
+from selenium.webdriver.support.ui import Select
+from selenium.common.exceptions import TimeoutException, NoSuchElementException
 from webdriver_manager.chrome import ChromeDriverManager
 from datetime import datetime
 import time
 import json
 
 
+def wait_for_page_load(driver, timeout=30):
+    """Wait for the page to be fully loaded"""
+    try:
+        # Wait for document.readyState to be 'complete'
+        WebDriverWait(driver, timeout).until(
+            lambda d: d.execute_script("return document.readyState") == "complete"
+        )
+        # Additional wait for any loading indicators
+        time.sleep(5)
+    except Exception as e:
+        print(f"Warning: Page load wait timed out: {e}")
+
+
 def scrape(url: str):
-    # Set up Chrome options
+    # Set up Chrome options with more realistic browser behavior
     chrome_options = Options()
     chrome_options.add_argument("--headless")
     chrome_options.add_argument("--no-sandbox")
     chrome_options.add_argument("--disable-dev-shm-usage")
+    chrome_options.add_argument("--disable-blink-features=AutomationControlled")
+    chrome_options.add_argument("--disable-infobars")
+    chrome_options.add_experimental_option("excludeSwitches", ["enable-automation"])
+    chrome_options.add_experimental_option("useAutomationExtension", False)
 
-    # Initialize the Chrome driver with webdriver-manager
     service = Service(ChromeDriverManager().install())
     driver = webdriver.Chrome(service=service, options=chrome_options)
 
-    try:
-        # Get today's date in the format used by the website (e.g., "20 Jan 2024")
-        today = datetime.now().strftime("%d %b %Y")
+    # Set window size to a common resolution
+    driver.set_window_size(1920, 1080)
 
-        # Navigate to the URL
+    try:
+        today = datetime.now().strftime("%d %b %Y")
+        current_year = datetime.now().year
+
+        print(f"Navigating to {url}...")
         driver.get(url)
+        wait_for_page_load(driver)
+
+        print("Looking for year dropdown...")
+        try:
+            # Wait for the year dropdown to be present and clickable
+            year_dropdown = WebDriverWait(driver, 30).until(
+                EC.presence_of_element_located((By.ID, "ContentPlaceHolder1_ddlYear"))
+            )
+            print("Found year dropdown")
+
+            # Select current year from dropdown
+            select = Select(year_dropdown)
+            select.select_by_value(str(current_year))
+            print(f"Selected year: {current_year}")
+
+            # Small delay to let the selection take effect
+            time.sleep(3)
+
+            print("Looking for submit button...")
+            # Wait for submit button to be clickable and click it using JavaScript
+            submit_button = WebDriverWait(driver, 30).until(
+                EC.presence_of_element_located((By.ID, "ContentPlaceHolder1_btnSubmit"))
+            )
+            print("Found submit button, clicking...")
+            driver.execute_script("arguments[0].click();", submit_button)
+
+            # Wait longer after clicking submit
+            print("Waiting for response after submit...")
+            time.sleep(10)  # Initial wait after submit
+            wait_for_page_load(driver)  # Wait for page to be fully loaded
+
+            print("Waiting for table to load...")
+            # Wait for the table to load after submission with a longer timeout
+            WebDriverWait(driver, 60).until(
+                EC.presence_of_element_located((By.ID, "ContentPlaceHolder1_gvData"))
+            )
+            print("Table loaded successfully")
+
+        except TimeoutException as e:
+            print(f"Timeout waiting for element: {e}")
+            print("Current page source:")
+            print(driver.page_source[:1000])  # Print first 1000 chars of page source
+            return
+        except Exception as e:
+            print(f"Error during form submission: {e}")
+            return
 
         all_data = []
         page_num = 1
 
         while True:
-            # Wait for the table to load
             try:
-                WebDriverWait(driver, 20).until(
+                # Wait for the table to load
+                WebDriverWait(driver, 30).until(
                     EC.presence_of_element_located(
                         (By.ID, "ContentPlaceHolder1_gvData")
                     )
@@ -48,6 +115,7 @@ def scrape(url: str):
                 By.CSS_SELECTOR,
                 "#ContentPlaceHolder1_gvData tr:not(.pgr):not(.TTHeader)",
             )
+            print(f"Found {len(rows)} rows on page {page_num}")
 
             # Extract data from current page
             for row in rows:
@@ -82,26 +150,29 @@ def scrape(url: str):
                     # Click the next page link (page_links[page_num] is the next page)
                     next_link = page_links[page_num - 1]  # 0-based index
                     driver.execute_script("arguments[0].click();", next_link)
-                    time.sleep(2)
+                    print(f"Clicked page {page_num + 1}, waiting for load...")
+                    time.sleep(5)  # Wait after clicking
+                    wait_for_page_load(driver)  # Wait for page to be fully loaded
                     page_num += 1
+                    print(f"Navigating to page {page_num}")
                 except Exception as e:
+                    print(f"Error navigating to next page: {e}")
                     break
             else:
+                print("No more pages to process")
                 break
 
         # Filter for today's entries
         today_entries = [entry for entry in all_data if entry["date"] == today]
 
-        # Print today's entries
         if today_entries:
             print(
                 f"\nFound {len(today_entries)} company name changes for today ({today}):"
             )
             for entry in today_entries:
-                print(f"\nSecurity Code: {entry['security_code']}")
-                print(f"Old Name: {entry['old_name']}")
-                print(f"New Name: {entry['new_name']}")
-                print(f"Date: {entry['date']}")
+                print(
+                    f"\nSecurity Code: {entry['security_code']}\nOld Name: {entry['old_name']}\nNew Name: {entry['new_name']}\nDate: {entry['date']}"
+                )
         else:
             print(f"\nNo company name changes found for today ({today})")
 
@@ -110,6 +181,8 @@ def scrape(url: str):
             json.dump(all_data, f, ensure_ascii=False, indent=2)
         print(f"\nAll scraped data has been saved to bse_name_changes.json")
 
+    except Exception as e:
+        print(f"An error occurred: {e}")
     finally:
         driver.quit()
 

@@ -1,81 +1,9 @@
 [
   {
-    "security_code": "1",
-    "old_name": "2",
-    "new_name": "3",
-    "date": "4"
-  },
-  {
-    "security_code": "512161",
-    "old_name": "8K Miles Software Services Limited",
-    "new_name": "SECUREKLOUD TECHNOLOGIES LIMITED",
-    "date": "20 Jan 2021"
-  },
-  {
-    "security_code": "539620",
-    "old_name": "A Infrastructure Limited",
-    "new_name": "KANORIA ENERGY & INFRASTRUCTURE LIMITED",
-    "date": "04 May 2023"
-  },
-  {
     "security_code": "539300",
     "old_name": "A.K. Spintex Ltd.",
     "new_name": "SUNRAKSHAKK INDUSTRIES INDIA LIMITED",
     "date": "23 May 2025"
-  },
-  {
-    "security_code": "531190",
-    "old_name": "A.V.COTTEX LTD.",
-    "new_name": "Tavernier Resources Limi",
-    "date": "06 Dec 2012"
-  },
-  {
-    "security_code": "542012",
-    "old_name": "A-1 Acid Limited",
-    "new_name": "A-1 LIMITED",
-    "date": "16 Oct 2024"
-  },
-  {
-    "security_code": "533292",
-    "old_name": "A2Z MAINTENANCE & ENGINEERING SERVICES LTD.",
-    "new_name": "A2Z Infra Engineering Limited",
-    "date": "31 Dec 2014"
-  },
-  {
-    "security_code": "533412",
-    "old_name": "AANJANEYA LIFECARE LTD.",
-    "new_name": "Dr.Datsons Labs Limited",
-    "date": "02 Sep 2013"
-  },
-  {
-    "security_code": "526488",
-    "old_name": "AARV Infratel Limited",
-    "new_name": "BHUDEVI INFRA PROJECTS LIMITED",
-    "date": "07 Nov 2022"
-  },
-  {
-    "security_code": "519319",
-    "old_name": "Aashee Infotech Ltd.",
-    "new_name": "JATALIA GLOBAL VENTURES LIMITED",
-    "date": "24 Apr 2019"
-  },
-  {
-    "security_code": "512038",
-    "old_name": "Aaswa Trading & Export Ltd.",
-    "new_name": "TCC CONCEPT LIMITED",
-    "date": "14 Jul 2023"
-  },
-  {
-    "security_code": "539528",
-    "old_name": "Aayush Food And Herbs Limited",
-    "new_name": "AAYUSH WELLNESS LIMITED",
-    "date": "08 Jul 2024"
-  },
-  {
-    "security_code": "523204",
-    "old_name": "Aban Loyd Chiles Offshore Ltd",
-    "new_name": "Aban Offshore Limited",
-    "date": "04 Sep 2006"
   },
   {
     "security_code": "543712",
@@ -84,334 +12,16 @@
     "date": "01 Apr 2025"
   },
   {
-    "security_code": "532309",
-    "old_name": "ABB Alstom Power India Ltd",
-    "new_name": "Alstom Power India Ltd.",
-    "date": "13 Oct 2000"
-  },
-  {
-    "security_code": "500002",
-    "old_name": "ABB LTD.",
-    "new_name": "ABB India Limited",
-    "date": "03 Jul 2013"
-  },
-  {
-    "security_code": "543187",
-    "old_name": "ABB Power Products and Systems India Limited",
-    "new_name": "HITACHI ENERGY INDIA LIMITED",
-    "date": "10 Dec 2021"
-  },
-  {
-    "security_code": "506817",
-    "old_name": "Abbot Laboratories (I) Ltd",
-    "new_name": "Pharmacia Healthcare Ltd.",
-    "date": "20 Aug 2002"
-  },
-  {
-    "security_code": "513119",
-    "old_name": "ABC Gas (International) Ltd.",
-    "new_name": "ONIX SOLAR ENERGY LIMITED",
-    "date": "06 Dec 2024"
-  },
-  {
-    "security_code": "532937",
-    "old_name": "ABC PAPER LTD.",
-    "new_name": "Kuantum Papers Limited",
-    "date": "28 Apr 2012"
-  },
-  {
-    "security_code": "530833",
-    "old_name": "Abee Printer Ribbons Ltd.",
-    "new_name": "Abee Info-Consumables Ltd.",
-    "date": "02 Jan 2000"
-  },
-  {
-    "security_code": "520155",
-    "old_name": "ABG Infralogistics Ltd",
-    "new_name": "Starlog Enterprises Limited",
-    "date": "28 Jan 2016"
-  },
-  {
-    "security_code": "532497",
-    "old_name": "Abhishek Cements Ltd.",
-    "new_name": "Radico Khaitan Ltd.",
-    "date": "18 Jun 2003"
-  },
-  {
-    "security_code": "521064",
-    "old_name": "ABHISHEK INDUSTRIES LTD.",
-    "new_name": "Trident Ltd",
-    "date": "03 May 2011"
-  },
-  {
-    "security_code": "532831",
-    "old_name": "Abhishek Mills Limited",
-    "new_name": "Abhishek Corporation Ltd.",
-    "date": "26 Jun 2008"
-  },
-  {
-    "security_code": "524011",
-    "old_name": "Abner Pharmaceuticals Ltd.",
-    "new_name": "Genomics Biotech Ltd.",
-    "date": "02 Dec 2001"
-  },
-  {
-    "security_code": "1",
-    "old_name": "2",
-    "new_name": "3",
-    "date": "4"
-  },
-  {
-    "security_code": "1",
-    "old_name": "2",
-    "new_name": "3",
-    "date": "4"
-  },
-  {
-    "security_code": "532774",
-    "old_name": "Accel Frontline Limited",
-    "new_name": "Inspirisys Solutions Limited",
-    "date": "12 Oct 2018"
-  },
-  {
-    "security_code": "517494",
-    "old_name": "Accel Transmatic Limited",
-    "new_name": "ACCEL LIMITED",
-    "date": "14 Aug 2018"
-  },
-  {
-    "security_code": "532268",
-    "old_name": "Accelya Kale Solutions Limitd",
-    "new_name": "ACCELYA SOLUTIONS INDIA LIMITED",
-    "date": "03 Jun 2019"
-  },
-  {
-    "security_code": "530093",
-    "old_name": "ACE EDUTREND LTD.",
-    "new_name": "ACE EDUTREND LIMITED",
-    "date": "08 Mar 2011"
-  },
-  {
-    "security_code": "530093",
-    "old_name": "ACE EDUTREND LTD.",
-    "new_name": "ACE EDUTREND LIMITED",
-    "date": "08 Mar 2011"
-  },
-  {
-    "security_code": "530093",
-    "old_name": "ACE INDIA LTD.",
-    "new_name": "ACE EDUTREND Limited",
-    "date": "15 Dec 2010"
-  },
-  {
-    "security_code": "530901",
-    "old_name": "ACIL COTTON INDUSTRIES LTD.",
-    "new_name": "ACIL Cotton Industries Limited",
-    "date": "15 Nov 2010"
-  },
-  {
-    "security_code": "505650",
-    "old_name": "Acme Manufacturing Co. Ltd",
-    "new_name": "Skyline Millars Limited",
-    "date": "21 Mar 2002"
-  },
-  {
-    "security_code": "524091",
-    "old_name": "Acrysil (India) Ltd.",
-    "new_name": "Acrysil Ltd.",
-    "date": "22 Feb 1999"
-  },
-  {
-    "security_code": "524091",
-    "old_name": "Acrysil Ltd.",
-    "new_name": "CARYSIL LIMITED",
-    "date": "18 Nov 2022"
-  },
-  {
-    "security_code": "512599",
-    "old_name": "Adani Exports Limited",
-    "new_name": "Adani Enterprises Limited",
-    "date": "04 Sep 2006"
-  },
-  {
-    "security_code": "542066",
-    "old_name": "Adani Gas Limited",
-    "new_name": "ADANI TOTAL GAS LIMITED",
-    "date": "13 Jan 2021"
-  },
-  {
-    "security_code": "539254",
-    "old_name": "Adani Transmission Limited",
-    "new_name": "Adani Energy Solutions Limited",
-    "date": "24 Aug 2023"
-  },
-  {
     "security_code": "543458",
     "old_name": "Adani Wilmar Limited",
     "new_name": "AWL AGRI BUSINESS LIMITED",
     "date": "16 Apr 2025"
   },
   {
-    "security_code": "531518",
-    "old_name": "Adarsh Derivatives Ltd.",
-    "new_name": "Vikas Granaries",
-    "date": "08 Aug 2008"
-  },
-  {
-    "security_code": "538734",
-    "old_name": "ADCC Infocad Limited",
-    "new_name": "CEINSYS TECH LIMITED",
-    "date": "31 Aug 2017"
-  },
-  {
-    "security_code": "541865",
-    "old_name": "Add-Shop Promotions Limited",
-    "new_name": "Add-Shop E-Retail Limited",
-    "date": "24 Jun 2020"
-  },
-  {
-    "security_code": "512493",
-    "old_name": "Adelphia Vision India Ltd",
-    "new_name": "Garnet International Limited",
-    "date": "27 Sep 2001"
-  },
-  {
-    "security_code": "530901",
-    "old_name": "Adeshwar Cotton Industries Ltd",
-    "new_name": "ACIL Cotton Industries Limited",
-    "date": "06 Oct 2009"
-  },
-  {
-    "security_code": "538365",
-    "old_name": "Adhunik Industries Limited",
-    "new_name": "INCREDIBLE INDUSTRIES LIMITED",
-    "date": "20 May 2021"
-  },
-  {
-    "security_code": "530117",
-    "old_name": "Adi Finechem Limited",
-    "new_name": "Fairchem Speciality Limited",
-    "date": "19 Jan 2017"
-  },
-  {
-    "security_code": "531592",
-    "old_name": "Adi Rasayan Ltd.",
-    "new_name": "GENERIC PHARMASEC LIMITED",
-    "date": "06 Dec 2018"
-  },
-  {
-    "security_code": "539607",
-    "old_name": "Adithya Aquaculture Limited",
-    "new_name": "Blue Cloud Softech Solutions Limited",
-    "date": "07 Jan 2016"
-  },
-  {
-    "security_code": "531677",
-    "old_name": "ADITYA GEARS LTD.",
-    "new_name": "Aris International Limited",
-    "date": "16 Apr 2013"
-  },
-  {
-    "security_code": "513513",
-    "old_name": "Aditya Global Techno Corporation Ltd.",
-    "new_name": "Aditya Ispat Ltd.",
-    "date": "31 Mar 2004"
-  },
-  {
-    "security_code": "1",
-    "old_name": "2",
-    "new_name": "3",
-    "date": "4"
-  },
-  {
-    "security_code": "1",
-    "old_name": "2",
-    "new_name": "3",
-    "date": "4"
-  },
-  {
-    "security_code": "513513",
-    "old_name": "Aditya Ispat Ltd.",
-    "new_name": "Aditya Ispat Ltd.",
-    "date": "21 Aug 2000"
-  },
-  {
-    "security_code": "508875",
-    "old_name": "Aditya Leasing Ltd.",
-    "new_name": "Nitin Alloys Global Limited",
-    "date": "28 Sep 2006"
-  },
-  {
-    "security_code": "539056",
-    "old_name": "Adlabs Entertainment Limited",
-    "new_name": "IMAGICAAWORLD ENTERTAINMENT LIMITED",
-    "date": "22 Apr 2020"
-  },
-  {
-    "security_code": "532399",
-    "old_name": "Adlabs Films Ltd.",
-    "new_name": "Reliance MediaWorks Limited",
-    "date": "20 Oct 2009"
-  },
-  {
     "security_code": "543230",
     "old_name": "Advait Infratech Limited",
     "new_name": "ADVAIT ENERGY TRANSITIONS LIMITED",
     "date": "21 Jan 2025"
-  },
-  {
-    "security_code": "523850",
-    "old_name": "Advanced Extrufoil Technology & E",
-    "new_name": "Axtel Industries Ltd.",
-    "date": "01 Oct 2000"
-  },
-  {
-    "security_code": "526433",
-    "old_name": "Advanced Synergic Microsystems Ltd.",
-    "new_name": "ASM Technologies Ltd.",
-    "date": "08 Feb 2002"
-  },
-  {
-    "security_code": "517041",
-    "old_name": "Advani Oerlikon Ltd.",
-    "new_name": "Ador Welding Ltd.",
-    "date": "16 Oct 2003"
-  },
-  {
-    "security_code": "532840",
-    "old_name": "ADVANTA INDIA LTD.",
-    "new_name": "Advanta Limited",
-    "date": "30 Jul 2013"
-  },
-  {
-    "security_code": "539773",
-    "old_name": "ADVIK INDUSTRIES LIMITED",
-    "new_name": "Advik Capital Limited",
-    "date": "02 Aug 2017"
-  },
-  {
-    "security_code": "541152",
-    "old_name": "Advitiya Trade India Limited",
-    "new_name": "GOYAL ALUMINIUMS LIMITED",
-    "date": "03 Nov 2021"
-  },
-  {
-    "security_code": "500003",
-    "old_name": "Aegis Chemicals Industries Ltd",
-    "new_name": "Aegis Logistics Ltd.",
-    "date": "29 Aug 2003"
-  },
-  {
-    "security_code": "506109",
-    "old_name": "Aeke Trading & Investments Ltd.",
-    "new_name": "Genesys International Corporation Ltd.",
-    "date": "22 Nov 1999"
-  },
-  {
-    "security_code": "505506",
-    "old_name": "Aesthetic Investments Ltd.",
-    "new_name": "Axon Infotech Ltd.",
-    "date": "25 Feb 2000"
   },
   {
     "security_code": "542752",
@@ -426,364 +36,10 @@
     "date": "02 May 2025"
   },
   {
-    "security_code": "530707",
-    "old_name": "Aftek Business Machines Ltd.",
-    "new_name": "Aftek ltd",
-    "date": "15 Mar 1999"
-  },
-  {
-    "security_code": "530707",
-    "old_name": "Aftek Infosys Limited",
-    "new_name": "Aftek Limited",
-    "date": "17 Nov 2006"
-  },
-  {
-    "security_code": "503675",
-    "old_name": "AGARWAL HOLDINGS LTD.",
-    "new_name": "Wagend Infra Venture Limited",
-    "date": "25 Jun 2012"
-  },
-  {
-    "security_code": "500463",
-    "old_name": "AGC Networks Limited",
-    "new_name": "BLACK BOX LIMITED",
-    "date": "03 Dec 2021"
-  },
-  {
-    "security_code": "512289",
-    "old_name": "Agee Gold Refiners Ltd",
-    "new_name": "Shirpur Gold Refinery Ltd.",
-    "date": "09 Sep 2002"
-  },
-  {
-    "security_code": "531937",
-    "old_name": "AGK Computer Secure Prints Ltd.",
-    "new_name": "Beckons Industries Ltd.",
-    "date": "05 Sep 2003"
-  },
-  {
-    "security_code": "506285",
-    "old_name": "Agrevo India Ltd",
-    "new_name": "Bayer Cropsciences ltd",
-    "date": "06 May 2000"
-  },
-  {
-    "security_code": "519281",
-    "old_name": "Agro Dutch Foods Ltd",
-    "new_name": "Agro Dutch Industries Ltd.",
-    "date": "17 Apr 2001"
-  },
-  {
     "security_code": "500215",
     "old_name": "Agro Tech Foods Ltd",
     "new_name": "SUNDROP BRANDS LIMITED",
     "date": "28 Mar 2025"
-  },
-  {
-    "security_code": "1",
-    "old_name": "2",
-    "new_name": "3",
-    "date": "4"
-  },
-  {
-    "security_code": "1",
-    "old_name": "2",
-    "new_name": "3",
-    "date": "4"
-  },
-  {
-    "security_code": "521048",
-    "old_name": "AHMEDABAD ADVANCE MILLS LTD.",
-    "new_name": "Advance Lifestyles Ltd.",
-    "date": "22 Jun 2011"
-  },
-  {
-    "security_code": "526735",
-    "old_name": "AHMEDABAD GASES LTD.",
-    "new_name": "Excel Castronics Limited",
-    "date": "12 Aug 2013"
-  },
-  {
-    "security_code": "513335",
-    "old_name": "Ahmednagar Forgings Ltd",
-    "new_name": "Metalyst Forgings Limited",
-    "date": "01 Jun 2015"
-  },
-  {
-    "security_code": "532975",
-    "old_name": "AISHWARYA TECHNOLOGIES AND TELECOM LIMITED",
-    "new_name": "TELOGICA LIMITED",
-    "date": "20 Dec 2023"
-  },
-  {
-    "security_code": "532975",
-    "old_name": "AISHWARYA TELECOM LIMITED",
-    "new_name": "AISHWARYA TECHNOLOGIES AND TELECOM LIMITED",
-    "date": "29 Sep 2020"
-  },
-  {
-    "security_code": "511692",
-    "old_name": "Ajcon Capital Markets Ltd.",
-    "new_name": "Ajcon Global Services Ltd.",
-    "date": "05 Sep 2003"
-  },
-  {
-    "security_code": "530713",
-    "old_name": "AJEL INFOTECH LTD.",
-    "new_name": "AJEL Limited",
-    "date": "30 Nov 2010"
-  },
-  {
-    "security_code": "506615",
-    "old_name": "AKAI ASIAN LTD.",
-    "new_name": "Sunrise Asian Limited",
-    "date": "05 May 2010"
-  },
-  {
-    "security_code": "530135",
-    "old_name": "Akanksha Cellular Ltd",
-    "new_name": "Optiemus Infracom Limited",
-    "date": "06 Jul 2012"
-  },
-  {
-    "security_code": "530135",
-    "old_name": "AKANKSHA FINVEST LTD.",
-    "new_name": "Akanksha Cellular Ltd",
-    "date": "20 Apr 2011"
-  },
-  {
-    "security_code": "530621",
-    "old_name": "Akar Tools Ltd.",
-    "new_name": "Akar Auto Industries Limited",
-    "date": "14 Nov 2017"
-  },
-  {
-    "security_code": "538778",
-    "old_name": "AKASHDEEP METAL INDUSTRIES LIMITED",
-    "new_name": "Kalyan Capitals Limited",
-    "date": "02 Jun 2023"
-  },
-  {
-    "security_code": "512199",
-    "old_name": "Akhileshwar Texports Ltd.",
-    "new_name": "Core Projects & Technologies Ltd.",
-    "date": "16 Oct 2003"
-  },
-  {
-    "security_code": "531838",
-    "old_name": "Akil Plastics Ltd.",
-    "new_name": "AKL Soft and Infosys (India) Ltd.",
-    "date": "04 Dec 2000"
-  },
-  {
-    "security_code": "531838",
-    "old_name": "AKL SOFT AND INFOSYS (INDIA) LTD.",
-    "new_name": "SMS Techsoft (India) Limited",
-    "date": "25 Jun 2012"
-  },
-  {
-    "security_code": "540718",
-    "old_name": "AKM CREATIONS LIMITED",
-    "new_name": "AAYUSH ART AND BULLION LIMITED",
-    "date": "15 Jul 2024"
-  },
-  {
-    "security_code": "540718",
-    "old_name": "AKM Lace and Embrotex Limited",
-    "new_name": "AKM CREATIONS LIMITED",
-    "date": "29 Dec 2022"
-  },
-  {
-    "security_code": "539017",
-    "old_name": "Akme Star Housing Finance Limited",
-    "new_name": "STAR HOUSING FINANCE LIMITED",
-    "date": "21 May 2021"
-  },
-  {
-    "security_code": "532799",
-    "old_name": "Akruti City Ltd",
-    "new_name": "Hubtown Limited",
-    "date": "15 Nov 2011"
-  },
-  {
-    "security_code": "532799",
-    "old_name": "Akruti Nirman Limited",
-    "new_name": "Akruti City Ltd",
-    "date": "08 Nov 2007"
-  },
-  {
-    "security_code": "511403",
-    "old_name": "ALAGENDRAN FINANCE LTD.",
-    "new_name": "Sai Jeevadhara Finance Limited",
-    "date": "24 Jun 2010"
-  },
-  {
-    "security_code": "506230",
-    "old_name": "ALBRIGHT & WILSON CHEMICALS INDIA LTD.-$",
-    "new_name": "Rhodia Specialty Chemicals India Ltd",
-    "date": "13 Jun 2011"
-  },
-  {
-    "security_code": "506235",
-    "old_name": "Alembic Chemical Works Company Lt",
-    "new_name": "Alembic Ltd",
-    "date": "30 Aug 1999"
-  },
-  {
-    "security_code": "530889",
-    "old_name": "Alka Spinners Ltd.",
-    "new_name": "Alka India Ltd.",
-    "date": "31 Mar 2004"
-  },
-  {
-    "security_code": "532749",
-    "old_name": "ALLCARGO GLOBAL LOGISTICS LTD.",
-    "new_name": "Allcargo Logistics Ltd",
-    "date": "20 Sep 2011"
-  },
-  {
-    "security_code": "1",
-    "old_name": "2",
-    "new_name": "3",
-    "date": "4"
-  },
-  {
-    "security_code": "1",
-    "old_name": "2",
-    "new_name": "3",
-    "date": "4"
-  },
-  {
-    "security_code": "511589",
-    "old_name": "Allianz Capital & Management Services Limited",
-    "new_name": "Almondz Capital & Management Services Limited",
-    "date": "13 Jun 2007"
-  },
-  {
-    "security_code": "531400",
-    "old_name": "Allianz Securities Limited",
-    "new_name": "Almondz Global Securities Limited",
-    "date": "02 Aug 2007"
-  },
-  {
-    "security_code": "531583",
-    "old_name": "Allied Capital Services Ltd.",
-    "new_name": "Rap Media Ltd.",
-    "date": "05 Nov 2004"
-  },
-  {
-    "security_code": "532633",
-    "old_name": "Allsec Technologies Ltd.",
-    "new_name": "Alldigi Tech Limited",
-    "date": "27 Sep 2024"
-  },
-  {
-    "security_code": "511589",
-    "old_name": "ALMONDZ CAPITAL & MANAGEMENT SERVICES LTD.",
-    "new_name": "Avonmore Capital & Management Services Limited",
-    "date": "07 Oct 2013"
-  },
-  {
-    "security_code": "521070",
-    "old_name": "Alok Textile Industries Ltd",
-    "new_name": "Alok Industries Ltd.",
-    "date": "19 Mar 2001"
-  },
-  {
-    "security_code": "512167",
-    "old_name": "Alps Commercial Ltd.",
-    "new_name": "Yashraj Securities Ltd.",
-    "date": "19 Dec 2000"
-  },
-  {
-    "security_code": "531924",
-    "old_name": "Alps Data Products Ltd.",
-    "new_name": "Alps Infosys Ltd",
-    "date": "26 Jul 1999"
-  },
-  {
-    "security_code": "532309",
-    "old_name": "ALSTOM India Ltd",
-    "new_name": "GE Power India Limited",
-    "date": "14 Sep 2016"
-  },
-  {
-    "security_code": "532309",
-    "old_name": "Alstom Power India Ltd.",
-    "new_name": "Alstom Projects india Ltd.",
-    "date": "26 May 2003"
-  },
-  {
-    "security_code": "532309",
-    "old_name": "ALSTOM PROJECTS INDIA LTD.",
-    "new_name": "ALSTOM India Ltd",
-    "date": "11 Jul 2012"
-  },
-  {
-    "security_code": "522275",
-    "old_name": "Alstom T&D India Ltd",
-    "new_name": "GE T&D India Limited",
-    "date": "14 Sep 2016"
-  },
-  {
-    "security_code": "506597",
-    "old_name": "Amal Products Ltd.",
-    "new_name": "Amal Ltd",
-    "date": "25 Nov 2003"
-  },
-  {
-    "security_code": "512032",
-    "old_name": "Aman & Aditya Financial Services",
-    "new_name": "Prism Mercantile Company Ltd.",
-    "date": "04 Oct 2000"
-  },
-  {
-    "security_code": "512008",
-    "old_name": "Amani Trading & Exports Ltd.",
-    "new_name": "EFC (I) LIMITED",
-    "date": "19 Sep 2022"
-  },
-  {
-    "security_code": "500008",
-    "old_name": "Amara Raja Batteries Ltd",
-    "new_name": "Amara Raja Energy & Mobility Limited",
-    "date": "27 Oct 2023"
-  },
-  {
-    "security_code": "531112",
-    "old_name": "Amaze Entertech Limited",
-    "new_name": "BALU FORGE INDUSTRIES LIMITED",
-    "date": "19 Oct 2020"
-  },
-  {
-    "security_code": "531797",
-    "old_name": "AMBALA CEMENTS LTD.",
-    "new_name": "Scan Projects Ltd",
-    "date": "30 Sep 2011"
-  },
-  {
-    "security_code": "530133",
-    "old_name": "Amco Vinyl Ltd.",
-    "new_name": "Amco India Ltd.",
-    "date": "15 Jul 2003"
-  },
-  {
-    "security_code": "532828",
-    "old_name": "AMD Metplast Limited",
-    "new_name": "AMD Industries",
-    "date": "11 Feb 2008"
-  },
-  {
-    "security_code": "519183",
-    "old_name": "American Dryfruits Ltd.",
-    "new_name": "ADF Foods Limited.",
-    "date": "21 Mar 2000"
-  },
-  {
-    "security_code": "532311",
-    "old_name": "Amex Information Technologies Limited",
-    "new_name": "Tutis Technologies Limited",
-    "date": "06 Nov 2006"
   },
   {
     "security_code": "543349",
@@ -792,183 +48,105 @@
     "date": "02 Jun 2025"
   },
   {
-    "security_code": "531681",
-    "old_name": "Amradeep Industries Ltd.",
-    "new_name": "AMERISE BIOSCIENCES LIMITED",
-    "date": "28 Jan 2022"
+    "security_code": "522134",
+    "old_name": "Artson Engineering Ltd",
+    "new_name": "ARTSON LIMITED",
+    "date": "12 Feb 2025"
   },
   {
-    "security_code": "507525",
-    "old_name": "Amrit Banaspati Co. Limited",
-    "new_name": "Amrit Corp. Limited",
-    "date": "02 Aug 2007"
+    "security_code": "511144",
+    "old_name": "Asya Infosoft Limited",
+    "new_name": "AXIS SOLUTIONS LIMITED",
+    "date": "05 May 2025"
   },
   {
-    "security_code": "1",
-    "old_name": "2",
-    "new_name": "3",
-    "date": "4"
+    "security_code": "511501",
+    "old_name": "Bharat Bhushan Share & Commodity Brokers Ltd.",
+    "new_name": "BHARAT BHUSHAN FINANCE & COMMODITY BROKERS LIMITED",
+    "date": "07 Jan 2025"
   },
   {
-    "security_code": "1",
-    "old_name": "2",
-    "new_name": "3",
-    "date": "4"
+    "security_code": "544137",
+    "old_name": "Bharat Highways InvIT",
+    "new_name": "Indus Infra Trust",
+    "date": "23 Jan 2025"
   },
   {
-    "security_code": "531728",
-    "old_name": "Amrit Enterprises Limited",
-    "new_name": "Amrit Banaspati Company Limited",
-    "date": "17 Sep 2007"
+    "security_code": "534535",
+    "old_name": "Bio Green Papers Limited",
+    "new_name": "STRING METAVERSE LIMITED",
+    "date": "09 May 2025"
   },
   {
-    "security_code": "590006",
-    "old_name": "Amrutanjan Ltd.",
-    "new_name": "Amrutanjan Health Care Ltd.",
-    "date": "05 Dec 2008"
+    "security_code": "544343",
+    "old_name": "Capital Numbers Infotech Limited",
+    "new_name": "CAPITALNUMBERS INFOTECH LIMITED",
+    "date": "22 Jan 2025"
   },
   {
-    "security_code": "531681",
-    "old_name": "Amstar Laminates Ltd.",
-    "new_name": "Amradeep Industries Ltd.",
-    "date": "29 Oct 2002"
+    "security_code": "533260",
+    "old_name": "Career Point Limited",
+    "new_name": "CP CAPITAL LIMITED",
+    "date": "20 Mar 2025"
   },
   {
-    "security_code": "523398",
-    "old_name": "Amtrex Hitachi Appliances Ltd",
-    "new_name": "Hitachi Home and Life Solutions (India) Ltd.",
-    "date": "08 Apr 2003"
+    "security_code": "530427",
+    "old_name": "Choksi Imaging Ltd.",
+    "new_name": "CHOKSI ASIA LIMITED",
+    "date": "09 May 2025"
   },
   {
-    "security_code": "523398",
-    "old_name": "Amtrex Appliances Ltd.",
-    "new_name": "Hitachi Home and Life Solutions (India) Ltd.",
-    "date": "24 Nov 1999"
+    "security_code": "533407",
+    "old_name": "CIL Nova Petrochemicals Limited",
+    "new_name": "TRUE GREEN BIO ENERGY LIMITED",
+    "date": "05 Feb 2025"
   },
   {
-    "security_code": "531761",
-    "old_name": "Amulya Leasing & Finance Ltd.",
-    "new_name": "APOLLO PIPES LIMITED",
-    "date": "03 Jan 2018"
+    "security_code": "530457",
+    "old_name": "Cinerad Communications Ltd.",
+    "new_name": "GTT DATA SOLUTIONS LIMITED",
+    "date": "10 Jan 2025"
   },
   {
-    "security_code": "511726",
-    "old_name": "Analysis Finance Ltd.",
-    "new_name": "Vipul Infrastructure Developers Ltd.",
-    "date": "12 Jan 2005"
+    "security_code": "543064",
+    "old_name": "Cohance Lifesciences Limited",
+    "new_name": "Cohance Lifesciences Limited",
+    "date": "19 May 2025"
   },
   {
-    "security_code": "501630",
-    "old_name": "ANAND ELECTRIC SUPPLY CO.LTD.",
-    "new_name": "Anand Projects Ltd",
-    "date": "09 May 2012"
+    "security_code": "542866",
+    "old_name": "COLAB CLOUD PLATFORMS LIMITED",
+    "new_name": "COLAB PLATFORMS LIMITED",
+    "date": "10 Mar 2025"
   },
   {
-    "security_code": "543249",
-    "old_name": "Anant Raj Global Limited",
-    "new_name": "TARC LIMITED",
-    "date": "03 Jun 2021"
+    "security_code": "512379",
+    "old_name": "Cressanda Solutions Ltd.",
+    "new_name": "CRESSANDA RAILWAY SOLUTIONS LIMITED",
+    "date": "19 Mar 2025"
   },
   {
-    "security_code": "515055",
-    "old_name": "ANANT RAJ INDUSTRIES LTD.-$",
-    "new_name": "Anant Raj Limited",
-    "date": "12 Dec 2012"
+    "security_code": "532832",
+    "old_name": "EQUINOX INDIA DEVELOPMENTS LIMITED",
+    "new_name": "EMBASSY DEVELOPMENTS LIMITED",
+    "date": "05 Mar 2025"
   },
   {
-    "security_code": "526833",
-    "old_name": "Ananthi Constructions Ltd.",
-    "new_name": "RAJENDRA CATERERS & CONFECTIONERS LIMITED",
-    "date": "08 Feb 2019"
+    "security_code": "537707",
+    "old_name": "ETT Limited",
+    "new_name": "LADDU GOPAL ONLINE SERVICES LIMITED",
+    "date": "21 May 2025"
   },
   {
-    "security_code": "531127",
-    "old_name": "Anar Industries Limited",
-    "new_name": "MENA MANI INDUSTRIES LIMITED",
-    "date": "26 Jul 2018"
+    "security_code": "530705",
+    "old_name": "Flora Textiles Ltd.",
+    "new_name": "ANIRIT VENTURES LIMITED",
+    "date": "09 Jan 2025"
   },
   {
-    "security_code": "530375",
-    "old_name": "ANCENT SOFTWARE INTERNATIONAL LTD.",
-    "new_name": "Nakshatra Infrastructure Limited",
-    "date": "04 Jun 2013"
-  },
-  {
-    "security_code": "507952",
-    "old_name": "Anchor Commercial Leasing Ltd.",
-    "new_name": "Shikhar Leasing and Trading Ltd.",
-    "date": "05 Sep 2003"
-  },
-  {
-    "security_code": "502330",
-    "old_name": "ANDHRA PRADESH PAPER MILLS LTD.",
-    "new_name": "International Paper APPM Limited",
-    "date": "21 Jan 2014"
-  },
-  {
-    "security_code": "530721",
-    "old_name": "ANG AUTO LTD.",
-    "new_name": "ANG Industries Limited",
-    "date": "16 Jun 2010"
-  },
-  {
-    "security_code": "543235",
-    "old_name": "Angel Broking Limited",
-    "new_name": "ANGEL ONE LIMITED",
-    "date": "11 Nov 2021"
-  },
-  {
-    "security_code": "538541",
-    "old_name": "Angels Enterprises Ltd.",
-    "new_name": "Inceptum Enterprises Limited",
-    "date": "30 Dec 2016"
-  },
-  {
-    "security_code": "519003",
-    "old_name": "ANIL MODI OIL INDUSTRIES LTD.",
-    "new_name": "Modi Naturals Limited",
-    "date": "21 Jan 2010"
-  },
-  {
-    "security_code": "531173",
-    "old_name": "Anil Pesticides Ltd.",
-    "new_name": "Syschem (India) Ltd.",
-    "date": "17 Feb 2003"
-  },
-  {
-    "security_code": "532910",
-    "old_name": "ANIL PRODUCTS LTD.",
-    "new_name": "Anil Limited",
-    "date": "15 Dec 2010"
-  },
-  {
-    "security_code": "537785",
-    "old_name": "Anisha Impex Limited",
-    "new_name": "RACE ECO CHAIN LIMITED",
-    "date": "05 Feb 2021"
-  },
-  {
-    "security_code": "521131",
-    "old_name": "Anjani Dham Industries Limited",
-    "new_name": "Shree Bhavya Fabrics Limited",
-    "date": "29 Jun 2015"
-  },
-  {
-    "security_code": "530693",
-    "old_name": "Ankuj Zinc.Ox Ltd.",
-    "new_name": "Aditya Info-soft Limited.",
-    "date": "29 Oct 2002"
-  },
-  {
-    "security_code": "501421",
-    "old_name": "Ankur Agencies Limited",
-    "new_name": "Solix Technologies Ltd.",
-    "date": "03 Apr 2002"
-  },
-  {
-    "security_code": "1",
-    "old_name": "2",
-    "new_name": "3",
-    "date": "4"
+    "security_code": "517564",
+    "old_name": "G.R.Cables Ltd.",
+    "new_name": "CLENON ENTERPRISES LIMITED",
+    "date": "04 Mar 2025"
   }
 ]
