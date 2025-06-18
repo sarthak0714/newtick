@@ -1,0 +1,723 @@
+[
+  {
+    "security_code": "542012",
+    "old_name": "A-1 Acid Limited",
+    "new_name": "A-1 LIMITED",
+    "date": "16 Oct 2024",
+    "ticker": null
+  },
+  {
+    "security_code": "539528",
+    "old_name": "Aayush Food And Herbs Limited",
+    "new_name": "AAYUSH WELLNESS LIMITED",
+    "date": "08 Jul 2024",
+    "ticker": null
+  },
+  {
+    "security_code": "513119",
+    "old_name": "ABC Gas (International) Ltd.",
+    "new_name": "ONIX SOLAR ENERGY LIMITED",
+    "date": "06 Dec 2024",
+    "ticker": null
+  },
+  {
+    "security_code": "540718",
+    "old_name": "AKM CREATIONS LIMITED",
+    "new_name": "AAYUSH ART AND BULLION LIMITED",
+    "date": "15 Jul 2024",
+    "ticker": null
+  },
+  {
+    "security_code": "532633",
+    "old_name": "Allsec Technologies Ltd.",
+    "new_name": "Alldigi Tech Limited",
+    "date": "27 Sep 2024",
+    "ticker": "ALLDIGI"
+  },
+  {
+    "security_code": "512091",
+    "old_name": "Anshuni Commercials Ltd.",
+    "new_name": "Nibe Ordnance and Maritime Limited",
+    "date": "10 Jul 2024",
+    "ticker": null
+  },
+  {
+    "security_code": "530565",
+    "old_name": "Archana Software Ltd.",
+    "new_name": "POPEES CARES LIMITED",
+    "date": "29 Apr 2024",
+    "ticker": null
+  },
+  {
+    "security_code": "524594",
+    "old_name": "Ashok Alco-Chem Ltd.",
+    "new_name": "Aeonx Digital Technology Limited",
+    "date": "22 Mar 2024",
+    "ticker": null
+  },
+  {
+    "security_code": "512063",
+    "old_name": "Ayoki Mercantile Ltd.",
+    "new_name": "WARDWIZARD HEALTHCARE LIMITED",
+    "date": "04 Mar 2024",
+    "ticker": null
+  },
+  {
+    "security_code": "539546",
+    "old_name": "Beekay Niryat Limited",
+    "new_name": "AGRIBIO SPIRITS LIMITED",
+    "date": "30 Dec 2024",
+    "ticker": null
+  },
+  {
+    "security_code": "514440",
+    "old_name": "Blue Pearl Texspin Limited",
+    "new_name": "Blue Pearl Agriventures Limited",
+    "date": "13 Sep 2024",
+    "ticker": null
+  },
+  {
+    "security_code": "500040",
+    "old_name": "Century Textiles & Industries Ltd.",
+    "new_name": "ADITYA BIRLA REAL ESTATE LIMITED",
+    "date": "10 Oct 2024",
+    "ticker": "ABREL"
+  },
+  {
+    "security_code": "521244",
+    "old_name": "Chitradurga Spintex Ltd.",
+    "new_name": "MKP Mobility Limited",
+    "date": "01 Feb 2024",
+    "ticker": null
+  },
+  {
+    "security_code": "504340",
+    "old_name": "Confidence Finance And Trading Limited",
+    "new_name": "Longspur International Ventures Limited",
+    "date": "09 Aug 2024",
+    "ticker": null
+  },
+  {
+    "security_code": "512361",
+    "old_name": "Cupid Trades & Finance Ltd.",
+    "new_name": "CUPID BREWERIES AND DISTILLERIES LIMITED",
+    "date": "27 Nov 2024",
+    "ticker": null
+  },
+  {
+    "security_code": "533160",
+    "old_name": "D B REALTY LIMITED",
+    "new_name": "VALOR ESTATE LIMITED",
+    "date": "10 Apr 2024",
+    "ticker": "DBREALTY"
+  },
+  {
+    "security_code": "543225",
+    "old_name": "Data Infrastructure Trust",
+    "new_name": "Altius Telecom Infrastructure Trust",
+    "date": "18 Oct 2024",
+    "ticker": null
+  },
+  {
+    "security_code": "526443",
+    "old_name": "Datasoft Application Software (I) L",
+    "new_name": "Artificial Electronics Intelligent Material Limited",
+    "date": "12 Jul 2024",
+    "ticker": null
+  },
+  {
+    "security_code": "543516",
+    "old_name": "DHYAANI TILE AND MARBLEZ LIMITED",
+    "new_name": "DHYAANI TRADEVENTTURES LIMITED",
+    "date": "27 Feb 2024",
+    "ticker": null
+  },
+  {
+    "security_code": "542724",
+    "old_name": "Earum Pharmaceuticals Limited",
+    "new_name": "Murae Organisor Limited",
+    "date": "20 Mar 2024",
+    "ticker": null
+  },
+  {
+    "security_code": "540006",
+    "old_name": "EAST WEST HOLDINGS LIMITED",
+    "new_name": "EAST WEST FREIGHT CARRIERS LTD",
+    "date": "02 Aug 2024",
+    "ticker": null
+  },
+  {
+    "security_code": "543746",
+    "old_name": "Eastern Logica Infoway Limited",
+    "new_name": "LOGICA INFOWAY LIMITED",
+    "date": "28 May 2024",
+    "ticker": null
+  },
+  {
+    "security_code": "507528",
+    "old_name": "Eastern Sugar & Industries Ltd.",
+    "new_name": "KUNDAN MINERALS AND METALS LIMITED",
+    "date": "09 Oct 2024",
+    "ticker": "KUNDANMM"
+  },
+  {
+    "security_code": "533149",
+    "old_name": "Essar Securities Limited",
+    "new_name": "Yunik Managing Advisors Limited",
+    "date": "09 Feb 2024",
+    "ticker": null
+  },
+  {
+    "security_code": "514060",
+    "old_name": "Evergreen Textiles Limited",
+    "new_name": "MARKOBENZ VENTURES LIMITED",
+    "date": "10 Jan 2024",
+    "ticker": null
+  },
+  {
+    "security_code": "543444",
+    "old_name": "Fabino Life Sciences Limited",
+    "new_name": "FABINO ENTERPRISES LIMITED",
+    "date": "10 Jul 2024",
+    "ticker": null
+  },
+  {
+    "security_code": "524743",
+    "old_name": "Fischer Chemic Ltd.",
+    "new_name": "FISCHER MEDICAL VENTURES LIMITED",
+    "date": "14 Jun 2024",
+    "ticker": null
+  },
+  {
+    "security_code": "530077",
+    "old_name": "Freshtrop Fruits Ltd.",
+    "new_name": "PURETROP FRUITS LIMITED",
+    "date": "18 Nov 2024",
+    "ticker": null
+  },
+  {
+    "security_code": "543652",
+    "old_name": "Fusion Micro Finance Limited",
+    "new_name": "FUSION FINANCE LIMITED",
+    "date": "16 Sep 2024",
+    "ticker": "FUSION"
+  },
+  {
+    "security_code": "504346",
+    "old_name": "G.D. Trading & Agencies Ltd.",
+    "new_name": "RRP SEMICONDUCTOR LIMITED",
+    "date": "19 Jul 2024",
+    "ticker": null
+  },
+  {
+    "security_code": "541703",
+    "old_name": "Ganesh Films India Limited",
+    "new_name": "RACONTEUR GLOBAL RESOURCES LIMITED",
+    "date": "12 Feb 2024",
+    "ticker": null
+  },
+  {
+    "security_code": "522275",
+    "old_name": "GE T&D India Limited",
+    "new_name": "GE Vernova T&D India Limited",
+    "date": "05 Nov 2024",
+    "ticker": "GVT%26D"
+  },
+  {
+    "security_code": "532754",
+    "old_name": "GMR AIRPORTS INFRASTRUCTURE LIMITED",
+    "new_name": "GMR Airports Limited",
+    "date": "11 Dec 2024",
+    "ticker": "GMRAIRPORT"
+  },
+  {
+    "security_code": "531439",
+    "old_name": "Goldstone Technologies Ltd.",
+    "new_name": "AION-TECH SOLUTIONS LIMITED",
+    "date": "17 Jan 2024",
+    "ticker": "GOLDTECH"
+  },
+  {
+    "security_code": "517271",
+    "old_name": "HBL Power Systems Ltd.",
+    "new_name": "HBL ENGINEERING LIMITED",
+    "date": "23 Dec 2024",
+    "ticker": "HBLENGINE"
+  },
+  {
+    "security_code": "514010",
+    "old_name": "Himachal Fibres Ltd.",
+    "new_name": "RUDRA ECOVATION LIMITED",
+    "date": "22 Mar 2024",
+    "ticker": null
+  },
+  {
+    "security_code": "544321",
+    "old_name": "ICC Realty (India) Private Limited",
+    "new_name": "Ventive Hospitality Limited",
+    "date": "16 Sep 2024",
+    "ticker": "VENTIVE"
+  },
+  {
+    "security_code": "533579",
+    "old_name": "IDFC Mutual Fund",
+    "new_name": "Bandhan Mutual Fund",
+    "date": "03 Jan 2024",
+    "ticker": null
+  },
+  {
+    "security_code": "542773",
+    "old_name": "IIFL Securities Limited",
+    "new_name": "IIFL CAPITAL SERVICES LIMITED",
+    "date": "03 Dec 2024",
+    "ticker": "IIFLCAPS"
+  },
+  {
+    "security_code": "511628",
+    "old_name": "IM+ Capitals Limited",
+    "new_name": "FEDDERS HOLDING LIMITED",
+    "date": "18 Jul 2024",
+    "ticker": null
+  },
+  {
+    "security_code": "535789",
+    "old_name": "INDIABULLS HOUSING FINANCE LIMITED",
+    "new_name": "Sammaan Capital Limited",
+    "date": "26 Jul 2024",
+    "ticker": "82SCL24"
+  },
+  {
+    "security_code": "534175",
+    "old_name": "Indiabulls Mutual Fund",
+    "new_name": "Groww Asset Management Limited",
+    "date": "20 Dec 2024",
+    "ticker": null
+  },
+  {
+    "security_code": "532832",
+    "old_name": "Indiabulls Real Estate Limited",
+    "new_name": "EQUINOX INDIA DEVELOPMENTS LIMITED",
+    "date": "08 Jul 2024",
+    "ticker": null
+  },
+  {
+    "security_code": "504731",
+    "old_name": "Indian Bright Steel Co. Ltd.",
+    "new_name": "AZAD INDIA MOBILITY LIMITED",
+    "date": "24 Sep 2024",
+    "ticker": null
+  },
+  {
+    "security_code": "541300",
+    "old_name": "IndInfravit Trust",
+    "new_name": "INTERISE TRUST",
+    "date": "12 Nov 2024",
+    "ticker": null
+  },
+  {
+    "security_code": "506134",
+    "old_name": "Intellivate Capital Ventures Limited",
+    "new_name": "GOURMET GATEWAY INDIA LIMITED",
+    "date": "18 Jun 2024",
+    "ticker": null
+  },
+  {
+    "security_code": "531109",
+    "old_name": "Ishan Dyes & Chemicals Ltd.",
+    "new_name": "Ishan Dyes and Chemicals Limited",
+    "date": "02 Dec 2024",
+    "ticker": "ISHANCH"
+  },
+  {
+    "security_code": "500216",
+    "old_name": "ITC Hotels Limited",
+    "new_name": "ITC Hotels Ltd Old",
+    "date": "20 Dec 2024",
+    "ticker": null
+  },
+  {
+    "security_code": "538539",
+    "old_name": "J.Taparia Projects Ltd",
+    "new_name": "ANNVRRIDHHI VENTURES LIMITED",
+    "date": "05 Dec 2024",
+    "ticker": null
+  },
+  {
+    "security_code": "524592",
+    "old_name": "JD Orgochem Ltd.",
+    "new_name": "JAYSYNTH ORGOCHEM LIMITED",
+    "date": "05 Aug 2024",
+    "ticker": null
+  },
+  {
+    "security_code": "538794",
+    "old_name": "Jet Infraventure Limited",
+    "new_name": "JET SOLAR LIMITED",
+    "date": "18 Nov 2024",
+    "ticker": null
+  },
+  {
+    "security_code": "508929",
+    "old_name": "Joy Realty Limited",
+    "new_name": "AVISHKAR INFRA REALTY LIMITED",
+    "date": "13 May 2024",
+    "ticker": null
+  },
+  {
+    "security_code": "531035",
+    "old_name": "Justride Enterprises Limited",
+    "new_name": "ERAAYA LIFESPACES LIMITED",
+    "date": "12 Apr 2024",
+    "ticker": null
+  },
+  {
+    "security_code": "532067",
+    "old_name": "Kilpest India Ltd.",
+    "new_name": "3B BlackBio Dx Limited",
+    "date": "02 Jan 2024",
+    "ticker": null
+  },
+  {
+    "security_code": "521238",
+    "old_name": "KKRRAFTON Developers Limited",
+    "new_name": "BHARAT GLOBAL DEVELOPERS LIMITED",
+    "date": "09 Oct 2024",
+    "ticker": null
+  },
+  {
+    "security_code": "533519",
+    "old_name": "L&T FINANCE HOLDINGS LIMITED",
+    "new_name": "L&T Finance Limited",
+    "date": "23 Apr 2024",
+    "ticker": null
+  },
+  {
+    "security_code": "505302",
+    "old_name": "Lakshmi Automatic Loom Works Ltd.",
+    "new_name": "LAKSHMI ENGINEERING AND WAREHOUSING LIMITED",
+    "date": "17 Dec 2024",
+    "ticker": null
+  },
+  {
+    "security_code": "500252",
+    "old_name": "Lakshmi Machine Works Ltd.",
+    "new_name": "LMW Limited",
+    "date": "10 Oct 2024",
+    "ticker": "LMW"
+  },
+  {
+    "security_code": "530745",
+    "old_name": "LN Industries India Limited",
+    "new_name": "ACS TECHNOLOGIES LIMITED",
+    "date": "17 Jan 2024",
+    "ticker": null
+  },
+  {
+    "security_code": "512600",
+    "old_name": "Macro International Limited",
+    "new_name": "ASTAL LABORATORIES LIMITED",
+    "date": "06 Jun 2024",
+    "ticker": null
+  },
+  {
+    "security_code": "517320",
+    "old_name": "MAGNUS RETAIL LIMITED",
+    "new_name": "MAGNUS RETAIL LIMITED",
+    "date": "21 Jun 2024",
+    "ticker": null
+  },
+  {
+    "security_code": "544273",
+    "old_name": "MANGALAM GLOBAL ENTERPRISES LIMITED",
+    "new_name": "MANGALAM GLOBAL ENTERPRISE LIMITED",
+    "date": "27 Sep 2024",
+    "ticker": "MGEL"
+  },
+  {
+    "security_code": "532950",
+    "old_name": "Manjushree Technopack Limited",
+    "new_name": "Manjushree Technopack Ltd",
+    "date": "21 Aug 2024",
+    "ticker": null
+  },
+  {
+    "security_code": "531286",
+    "old_name": "MV Cotspin ltd.",
+    "new_name": "ADHATA GLOBAL LIMITED",
+    "date": "11 Jul 2024",
+    "ticker": null
+  },
+  {
+    "security_code": "500298",
+    "old_name": "National Peroxide Ltd.",
+    "new_name": "Naperol Investments Limited",
+    "date": "18 Jan 2024",
+    "ticker": null
+  },
+  {
+    "security_code": "538668",
+    "old_name": "Naysaa Securities Limited",
+    "new_name": "Meghna Infracon Infrastructure Limited",
+    "date": "29 May 2024",
+    "ticker": null
+  },
+  {
+    "security_code": "530805",
+    "old_name": "Onesource Ideas Venture Limited",
+    "new_name": "ONESOURCE INDUSTRIES AND VENTURES LIMITED",
+    "date": "28 Nov 2024",
+    "ticker": null
+  },
+  {
+    "security_code": "539287",
+    "old_name": "Ortin Laboratories Limited",
+    "new_name": "ORTIN GLOBAL LIMITED",
+    "date": "03 Sep 2024",
+    "ticker": "ORTINGLOBE"
+  },
+  {
+    "security_code": "506122",
+    "old_name": "Pankaj Piyush Trade & Inv. Ltd",
+    "new_name": "Kairosoft AI Solutions Limited",
+    "date": "04 Sep 2024",
+    "ticker": null
+  },
+  {
+    "security_code": "532011",
+    "old_name": "Pooja Entertainment and Films Ltd.",
+    "new_name": "VASHU BHAGNANI INDUSTRIES LIMITED",
+    "date": "27 Mar 2024",
+    "ticker": null
+  },
+  {
+    "security_code": "523874",
+    "old_name": "Precision Containeurs Limited.",
+    "new_name": "East India Drums and Barrels Manufacturing Limited",
+    "date": "30 May 2024",
+    "ticker": null
+  },
+  {
+    "security_code": "543814",
+    "old_name": "Prospect Commodities Limited",
+    "new_name": "PROSPECT CONSUMER PRODUCTS LIMITED",
+    "date": "24 Dec 2024",
+    "ticker": null
+  },
+  {
+    "security_code": "535719",
+    "old_name": "QUEST SOFTECH (INDIA) LIMITED",
+    "new_name": "AMPVOLTS LIMITED",
+    "date": "07 Aug 2024",
+    "ticker": null
+  },
+  {
+    "security_code": "532024",
+    "old_name": "R.B.Gupta Financials Ltd.",
+    "new_name": "AARCON FACILITIES LIMITED",
+    "date": "13 Nov 2024",
+    "ticker": null
+  },
+  {
+    "security_code": "537840",
+    "old_name": "Raunaq EPC International Limited",
+    "new_name": "RAUNAQ INTERNATIONAL LIMITED",
+    "date": "30 Sep 2024",
+    "ticker": null
+  },
+  {
+    "security_code": "507300",
+    "old_name": "Ravalgaon Sugar Farm Ltd.",
+    "new_name": "The Ravalgaon Sugar Farm Limited",
+    "date": "24 Jan 2024",
+    "ticker": null
+  },
+  {
+    "security_code": "539691",
+    "old_name": "Real Growth Commercial Enterprises Ltd.",
+    "new_name": "REAL GROWTH CORPORATION LIMITED",
+    "date": "23 Jan 2024",
+    "ticker": null
+  },
+  {
+    "security_code": "511585",
+    "old_name": "Regency Trust Ltd.",
+    "new_name": "BEFOUND MOVEMENT LIMITED",
+    "date": "24 Dec 2024",
+    "ticker": null
+  },
+  {
+    "security_code": "502473",
+    "old_name": "Relson India Ltd.",
+    "new_name": "Crysdale Industries Limited",
+    "date": "26 Jun 2024",
+    "ticker": null
+  },
+  {
+    "security_code": "519230",
+    "old_name": "Richirich Inventures Limited",
+    "new_name": "KISAAN PARIVAR INDUSTRIES LIMITED",
+    "date": "19 Jun 2024",
+    "ticker": null
+  },
+  {
+    "security_code": "530267",
+    "old_name": "Saboo Brothers Ltd.",
+    "new_name": "ARIGATO UNIVERSE LIMITED",
+    "date": "28 Mar 2024",
+    "ticker": null
+  },
+  {
+    "security_code": "532092",
+    "old_name": "Sagar Productions Limited",
+    "new_name": "EPUJA SPIRITECH LIMITED",
+    "date": "14 Feb 2024",
+    "ticker": null
+  },
+  {
+    "security_code": "517320",
+    "old_name": "Savant Infocomm Limited",
+    "new_name": "MAGNUS RETAIL LIMITED",
+    "date": "21 Jun 2024",
+    "ticker": null
+  },
+  {
+    "security_code": "526544",
+    "old_name": "Scanpoint Geomatics Limited",
+    "new_name": "SGL RESOURCES LIMITED",
+    "date": "30 Dec 2024",
+    "ticker": null
+  },
+  {
+    "security_code": "531944",
+    "old_name": "SERVOTEACH INDUSTRIES LTD",
+    "new_name": "LEXORAA INDUSTRIES LIMITED",
+    "date": "30 Sep 2024",
+    "ticker": null
+  },
+  {
+    "security_code": "530525",
+    "old_name": "Sheetal Diamonds Ltd.",
+    "new_name": "RAJNISH RETAIL LIMITED",
+    "date": "03 Apr 2024",
+    "ticker": null
+  },
+  {
+    "security_code": "533301",
+    "old_name": "Shekhawati Poly-Yarn Limited",
+    "new_name": "SHEKHAWATI INDUSTRIES LIMITED",
+    "date": "09 Aug 2024",
+    "ticker": "SHEKHAWATI"
+  },
+  {
+    "security_code": "520151",
+    "old_name": "Shreyas Shipping And Logistics Limited",
+    "new_name": "TRANSWORLD SHIPPING LINES LIMITED",
+    "date": "23 Oct 2024",
+    "ticker": "TRANSWORLD"
+  },
+  {
+    "security_code": "531219",
+    "old_name": "Shyama Infosys Ltd.",
+    "new_name": "Shyama Computronics and Services Limited",
+    "date": "09 Oct 2024",
+    "ticker": null
+  },
+  {
+    "security_code": "505504",
+    "old_name": "Sindu Valley Technologies Ltd.",
+    "new_name": "GHV INFRA PROJECTS LIMITED",
+    "date": "19 Dec 2024",
+    "ticker": null
+  },
+  {
+    "security_code": "526827",
+    "old_name": "Spice Islands Apparels ltd.",
+    "new_name": "SPICE ISLANDS INDUSTRIES LIMITED",
+    "date": "25 Jun 2024",
+    "ticker": null
+  },
+  {
+    "security_code": "540079",
+    "old_name": "Sprayking Agro Equipment Limited",
+    "new_name": "Sprayking Limited",
+    "date": "04 Mar 2024",
+    "ticker": null
+  },
+  {
+    "security_code": "530177",
+    "old_name": "SPS International Ltd",
+    "new_name": "VK Global Industries Limited",
+    "date": "18 Dec 2024",
+    "ticker": null
+  },
+  {
+    "security_code": "508963",
+    "old_name": "Sterling Guarantee & Fin. Ltd",
+    "new_name": "TRUSTWAVE SECURITIES LIMITED",
+    "date": "26 Sep 2024",
+    "ticker": null
+  },
+  {
+    "security_code": "530217",
+    "old_name": "Swojas Energy Foods Ltd.",
+    "new_name": "SWOJAS FOODS LIMITED",
+    "date": "02 Dec 2024",
+    "ticker": null
+  },
+  {
+    "security_code": "532315",
+    "old_name": "Telesys Software Ltd.",
+    "new_name": "GROARC INDUSTRIES INDIA LIMITED",
+    "date": "28 Oct 2024",
+    "ticker": null
+  },
+  {
+    "security_code": "590005",
+    "old_name": "Tide Water Oil (India) Ltd.",
+    "new_name": "VEEDOL CORPORATION LIMITED",
+    "date": "09 Oct 2024",
+    "ticker": "VEEDOL"
+  },
+  {
+    "security_code": "531205",
+    "old_name": "TINE AGRO LIMITED",
+    "new_name": "SPRIGHT AGRO LIMITED",
+    "date": "29 Apr 2024",
+    "ticker": null
+  },
+  {
+    "security_code": "541741",
+    "old_name": "Tinna Trade Limited",
+    "new_name": "Fratelli Vineyards Limited",
+    "date": "13 Sep 2024",
+    "ticker": null
+  },
+  {
+    "security_code": "532375",
+    "old_name": "Tips Industries Limited",
+    "new_name": "TIPS MUSIC LIMITED",
+    "date": "30 Sep 2024",
+    "ticker": "TIPSMUSIC"
+  },
+  {
+    "security_code": "513005",
+    "old_name": "V.B.C. Ferro Alloys Ltd.",
+    "new_name": "Chrome Silicon Limited",
+    "date": "25 Jan 2024",
+    "ticker": null
+  },
+  {
+    "security_code": "506178",
+    "old_name": "VELOX INDUSTRIES LIMITED",
+    "new_name": "Velox Shipping and Logistics Limited",
+    "date": "29 Oct 2024",
+    "ticker": null
+  },
+  {
+    "security_code": "539659",
+    "old_name": "Vidli Restaurants Limited",
+    "new_name": "VIKRAM KAMATS HOSPITALITY LIMITED",
+    "date": "30 Dec 2024",
+    "ticker": null
+  }
+]
