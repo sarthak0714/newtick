@@ -333,7 +333,8 @@ class NewTickerScraper:
 
         # Filter for today's entries
         today = datetime.now().strftime("%d %b %Y")
-        today_entries = [entry for entry in all_data if entry["date"] == today]
+        # today_entries = [entry for entry in all_data if entry["date"] == today]
+        today_entries = all_data
 
         if today_entries:
             print(
